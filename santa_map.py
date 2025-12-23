@@ -1,9 +1,7 @@
 """
 Holiday Santa Traditions Map (fun GIS edition)
 - Color-coded Santas by tradition
-- Adds buffers
-- Includes playful annotations: CRS jokes, time zones, and "north pole is undefined"
-- Exports a PNG you can post on LinkedIn
+
 
 Run in PyCharm. Output: santa_traditions_map.png
 """
